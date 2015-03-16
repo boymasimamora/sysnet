@@ -1,6 +1,6 @@
 Yii 2 Basic Application Template
 ================================
-BOYMA SIMAMORA
+TEAM (BOYMA , BAYU, ABRAHAM)
 Yii 2 Basic Application Template is a skeleton Yii 2 application best for
 rapidly creating small projects.
 
